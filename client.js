@@ -1,4 +1,4 @@
-const socket = io("https://chat-app-9jgl.onrender.com");
+const socket = io("backend link here");
 
 const form = document.getElementById("send-container");
 const messageInput = document.getElementById("messageInp");
